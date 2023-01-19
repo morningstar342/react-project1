@@ -77,3 +77,7 @@ https://github.com/morningstar342/react-project1.git
     put data inside it
 
 
+- React is Component-Based
+
+
+- Include Compnents in pages
