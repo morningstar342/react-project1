@@ -27,7 +27,7 @@
 
 https://github.com/morningstar342/react-project1.git
 
-- git repositery
+- github public github
     …or create a new repository on the command line
         echo "# react-project2" >> README.md
         git init

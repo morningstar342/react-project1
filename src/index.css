@@ -11,7 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-// Write CSS Codes
+// Write CSS Codes MS
 .title {
+  text-align: center;
+}
+
+.title1 {
   text-align: center;
 }
