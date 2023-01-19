@@ -6,7 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 // Import pages MS
 import Home from "./pages/home";
-import Page2 from "./pages/Page2";
+import Page2 from "./pages/page2";
 // import Page2 from "./pages/Page2";
 
 // Router imported 1.0

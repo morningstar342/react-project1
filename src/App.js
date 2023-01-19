@@ -1,18 +1,24 @@
+import { Routes, Route, Link } from "react/router";
+import Home from "./pages/home";
+import Page2 from "./pages/page2";
+
 function App() {
   return (
-    <>
+    <div className="App">
       {/*
         Put all in body (MD)
         ====================================================
         ====================================================
-              Replaced with Pages XXX.JS in pages MS
+              Pages XXX.JS in pages MS
         ====================================================
         ====================================================
       */}
-      <h1 className="title">I love React JS</h1>
-      <p>i love react js , and python</p>
-      <p>i love react js , and python</p>
-    </>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/page2" element={<Page2 />} />
+      </Routes>
+      <Link to="/home"></Link>
+    </div>
   );
 }
 
