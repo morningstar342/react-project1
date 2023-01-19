@@ -45,3 +45,7 @@ https://github.com/morningstar342/react-project1.git
 - (2nd way) source control =>
             publish gitgub => "type name" => public repositery
             => successful publish
+
+- Update:
+    scource control => type msg (update name) => click (3lamet sa7)
+    => click on (...) => push
