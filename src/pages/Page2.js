@@ -7,7 +7,7 @@ const Page2 = () => {
     return (
         <div>
             <Header/>
-            <MainContent  pageName="Page2 Page"/>
+            <MainContent  pageName="Page2 Page" designer="Muhammad Abraham"/>
             <Footer/>
 
         </div>
