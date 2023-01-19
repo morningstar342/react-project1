@@ -49,3 +49,29 @@ https://github.com/morningstar342/react-project1.git
 - Update:
     scource control => type msg (update name) => click (3lamet sa7)
     => click on (...) => push
+
+- create branch for a project
+    => click on (...) => branch => create branch & give it name
+    main project => Master
+    branch beneath @ the dropdown
+
+
+- change html to jsx (for js files)
+    https://magic.reactjs.net/htmltojsx.htm
+    https://transform.tools/html-to-jsx
+
+
+- All links of project put in index.html
+
+
+- all boldy content put in app.js after change it to jsx
+
+
+- package.json show all what my project depend on (dependencies)
+
+
+- for many pages from 1 page, we need react router
+    npm install react-router-dom
+    create pages at src file.js
+    rfc (enter) react function
+    put data inside it
