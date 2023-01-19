@@ -40,3 +40,8 @@ https://github.com/morningstar342/react-project1.git
         git remote add origin https://github.com/morningstar342/react-project1.git
         git branch -M main
         git push -u origin main
+
+
+- (2nd way) source control =>
+            publish gitgub => "type name" => public repositery
+            => successful publish
