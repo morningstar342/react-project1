@@ -22,7 +22,7 @@ const router = createBrowserRouter([
     errorElement: <h1>Sorry No Such Page or Any Imported Design like 'Error404'</h1>,
   },
   {
-    path: "/Page2",
+    path: "/page2",
     element: <Page2/>,
     errorElement: <h1>Sorry No Such Page or Any Imported Design like 'Error404'</h1>,
   },

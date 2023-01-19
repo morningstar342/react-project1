@@ -75,3 +75,5 @@ https://github.com/morningstar342/react-project1.git
     create pages at src file.js
     rfc (enter) react function
     put data inside it
+
+
