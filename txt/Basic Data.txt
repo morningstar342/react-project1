@@ -89,3 +89,4 @@ https://github.com/morningstar342/react-project1.git
 - Reusable components
     MainContent {variable X}
     page {variable X}
+    props: way of transfer data from maincontent to pages
