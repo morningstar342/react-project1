@@ -84,3 +84,8 @@ https://github.com/morningstar342/react-project1.git
 
 
 - Reach Router  Link and NavLink
+
+
+- Reusable components
+    MainContent {variable X}
+    page {variable X}
