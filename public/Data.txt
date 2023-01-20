@@ -1,1 +1,0 @@
-Put HTML and CSS files beside it here , but he will read only index.html
