@@ -14,7 +14,7 @@ const Home = () => {
                 <NavLink to="/home"></NavLink>
                 {/* <a href="https://www.youtube.com/"></a> */}
 
-                <MainContent  pageName="HOME Page"/>
+                <MainContent  pageName="HOME Page" designer="Muhammad Abraham"/>
             <Footer/>
         </>
     );
