@@ -27,6 +27,7 @@
 
 - craco
   npm install --save craco
+  npm i -D @craco/craco
 
 - Tailwindcss
   npm install tailwindcss
