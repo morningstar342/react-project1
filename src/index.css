@@ -21,3 +21,10 @@ code {
 }
 
 /* Global Rules and Basic CSS  'MS' */
+
+
+
+/* Add the @tailwind directives for each of Tailwind’s layers to your  */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
