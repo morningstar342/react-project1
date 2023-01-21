@@ -24,3 +24,6 @@
 
 - packages are looking for funding
   npm fund
+
+- 
+  npm install --save craco
