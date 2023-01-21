@@ -25,5 +25,8 @@
 - packages are looking for funding
   npm fund
 
-- 
+- craco
   npm install --save craco
+
+- Tailwindcss
+  npm install tailwindcss
