@@ -33,3 +33,15 @@
   npm install tailwindcss
   npm install -D tailwindcss
   npx tailwindcss init
+
+-
+  npm run build
+
+- React dom
+  npm install react react-dom
+
+- Get node modules
+  npm i
+
+- WPA
+  npm i -g serve
