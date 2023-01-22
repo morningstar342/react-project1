@@ -1,13 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
+import App from './App';
 // React Rounter Additions MS (Look Down)
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 // Import pages MS
 import Home from "./pages/home";
 import Page2 from "./pages/page2";
-// import Page2 from "./pages/Page2";
+
 
 // Router imported 1.0
 const router = createBrowserRouter([

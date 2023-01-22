@@ -1,0 +1,8 @@
+Deploy
+    npm run build
+    video 16.0 اتعلم في ساعة
+
+
+Update Site features
+    npm run build
+    firebase deploy
